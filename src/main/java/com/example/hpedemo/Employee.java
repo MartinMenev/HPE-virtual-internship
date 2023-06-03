@@ -4,7 +4,6 @@ public class Employee {
     private final String employee_id;
     private final String first_name;
     private final String last_name;
-
     private final String email;
     private final String title;
 
